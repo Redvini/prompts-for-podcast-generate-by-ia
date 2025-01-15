@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Redvini/prompts-for-podcast-generate-by-ia/main/output/podcast_Martelo_Sonoro_Vini_Moraes.MP3" title="Escute agora"> 📕Clique aqui para escutar</a>
+<a href="https://github.com/Redvini/prompts-for-podcast-generate-by-ia/blob/main/output/podcast_Martelo_Sonoro_Vini_Moraes.MP3" title="Escute agora"> 📕Clique aqui para escutar</a>
     preview do podcast
 </p>
 
