@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_Martelo_Sonoro_Vini_Moraes.mp3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast_Martelo_Sonoro_Vini_Moraes.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Martelo Sonoro Gerado por I.A.s
